@@ -31,12 +31,12 @@
 
 # Work
 - 2019.4 - wevnal, inc.
-Media writer introducing AI papers at [AI-SCHOLAR](https://ai-scholar.tech/author/tatsuya-hiraoka).
+    - Media writer introducing AI papers at [AI-SCHOLAR](https://ai-scholar.tech/author/tatsuya-hiraoka).
 - 2019.1 - Retrieva, inc.
-Part-time engineer
+    - Part-time engineer
 - 2017.8 - 2017.9, Retrieva, inc.
-Internship [report(Youtube, Japanese)]
-Work on named entity recognition (NER)
+    - Internship: [report(Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
+    - Work on named entity recognition (NER)
 
 # Contact
 - [github](https://github.com/tathi)
