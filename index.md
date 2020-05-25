@@ -1,21 +1,19 @@
-
-Tatsuya Hiraoka (平岡 達也)
-A Ph.D student at Tokyo Tech, Okazaki lab.
+平岡 達也 (Hiraoka, Tatsuya)
 
 # Research Interests
-## Natural Language Processing
-- Word Segmentation
-- Named Entity Recognition
-## Linguistics
-- Syntax
-- Language Acquisition
-## Education
-- Motivation
+- Natural Language Processing
+    - Word Segmentation
+    - Named Entity Recognition
+- Linguistics
+    - Syntax
+    - Language Acquisition
+- Education
+    - Motivation
 
 # Education
-2019.4 - Tokyo Institute of Technology
-2017.4 - 2019.3 NAIST, Computational Linguistics Lab (Master of Engineering)
-2013.4 - 2017.3 Waseda University, School of Education, Department of English Language and Literature (Bachelor of Arts)
+- 2019.4 - Tokyo Institute of Technology
+- 2017.4 - 2019.3 NAIST, Computational Linguistics Lab (Master of Engineering)
+- 2013.4 - 2017.3 Waseda University, School of Education, Department of English Language and Literature (Bachelor of Arts)
 
 # Publications
 ## Refereed
@@ -41,5 +39,5 @@ Internship [report(Youtube, Japanese)]
 Work on named entity recognition (NER)
 
 # Contact
-[github](https://github.com/tathi)
-email: see [lab's web site](https://www.nlp.c.titech.ac.jp/index.ja.html).
+- [github](https://github.com/tathi)
+- email: see [lab's web site](https://www.nlp.c.titech.ac.jp/index.ja.html).
