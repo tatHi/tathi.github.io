@@ -15,6 +15,7 @@
 - 2013.4 - 2017.3 Waseda University, School of Education, Department of English Language and Literature (Bachelor of Arts)
 
 # Publications
+[Google Scholar](https://scholar.google.co.jp/citations?user=Ncbfy0UAAAAJ)
 ## Refereed
 - Tatsuya Hiraoka, Hiroyuki Shindo, and Yuji Matsumoto. Stochastic Tokenization with a Language Model for Neural Text Classification. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages to appear, July 2019.
 
