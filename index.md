@@ -6,8 +6,8 @@
     - Morphology
     - Named Entity Recognition
 - Linguistics
-    - Syntax
     - Language Acquisition
+    - Syntax
 
 # Education
 - 2019.4 - Tokyo Institute of Technology, Okazaki Lab.
@@ -25,7 +25,7 @@
 - **平岡 達也**，進藤 裕之，松本 裕治．確率的トークナイザーを用いたニューラル感情分析，言語処理学会第 25 回年次大会発表論文集 (NLP2019)，2019．
 - **平岡 達也**，進藤 裕之，松本 裕治．教師なしニューラル単語分割を用いた分散表現獲得，研究報告自然言語処理（NL），Vol.2018-NL-236，No.2，pp.1-7， 2018．
 
-## Unrefereed Presentatins
+## Unrefereed Presentations
 - **平岡 達也**, 高瀬 翔, 岡崎 直観. RNNによる遷移確率計算を用いた隠れマルコフモデル. 第14回NLP若手の会シンポジウム, p. 79, 2019年8月.
 - **平岡 達也**．ネットスラング『なう』についての統語論的考察，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
@@ -44,4 +44,5 @@
 
 # Contact
 - [github](https://github.com/tathi)
+- [twitter](https://twitter.com/7a7hi)
 - email: see [lab's web site](https://www.nlp.c.titech.ac.jp/index.ja.html).
