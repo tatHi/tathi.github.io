@@ -16,6 +16,7 @@
 
 # Publications
 [Google Scholar](https://scholar.google.co.jp/citations?user=Ncbfy0UAAAAJ)
+
 ## Refereed
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, and Yuji Matsumoto. Stochastic Tokenization with a Language Model for Neural Text Classification. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages to appear, July 2019.
 
@@ -26,6 +27,7 @@
 - **平岡 達也**，進藤 裕之，松本 裕治．教師なしニューラル単語分割を用いた分散表現獲得，研究報告自然言語処理（NL），Vol.2018-NL-236，No.2，pp.1-7， 2018．
 
 ## Unrefereed Presentations
+- 昇夏海, **平岡達也**, 丹羽彩奈, 岡﨑直観, 脇本宏平, 黒田和矢, 西口佳佑. 企業情報を考慮した広告文の自動生成. 第15回NLP若手の会シンポジウム, 2020年9月.
 - **平岡 達也**, 高瀬 翔, 岡崎 直観. RNNによる遷移確率計算を用いた隠れマルコフモデル. 第14回NLP若手の会シンポジウム, p. 79, 2019年8月.
 - **平岡 達也**．ネットスラング『なう』についての統語論的考察，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
