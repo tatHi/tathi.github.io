@@ -10,15 +10,16 @@
     - Syntax
 
 # Education
-- 2019.4 - Tokyo Institute of Technology, Okazaki Lab.
-- 2017.4 - 2019.3 NAIST, Computational Linguistics Lab (Master of Engineering)
-- 2013.4 - 2017.3 Waseda University, School of Education, Department of English Language and Literature (Bachelor of Arts)
+- 2019.4 - **Tokyo Institute of Technology**, Okazaki Lab.
+- 2017.4 - 2019.3 **NARA Institute of Science and Technology**, Computational Linguistics Lab (Master of Engineering)
+- 2013.4 - 2017.3 **Waseda University**, School of Education, Department of English Language and Literature (Bachelor of Arts)
 
 # Publications
 [Google Scholar](https://scholar.google.co.jp/citations?user=Ncbfy0UAAAAJ)
 
 ## Refereed
-- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Optimizing Word Segmentation for Downstream Task. In Findings of ACL: EMNLP 2020, pages (to appear), November 2020.
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Optimizing Word Segmentation for Downstream Task. In Findings of ACL: EMNLP 2020, pages (to appear), November 2020. 
+    - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, and Yuji Matsumoto. Stochastic Tokenization with a Language Model for Neural Text Classification. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages to appear, July 2019.
 
 ## Unrefereed
