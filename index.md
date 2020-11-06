@@ -20,7 +20,7 @@
 ## Refereed
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Optimizing Word Segmentation for Downstream Task. In Findings of ACL: EMNLP 2020, pages (to appear), November 2020. 
     - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
-- **Tatsuya Hiraoka**, Hiroyuki Shindo, and Yuji Matsumoto. Stochastic Tokenization with a Language Model for Neural Text Classification. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages to appear, July 2019.
+- **Tatsuya Hiraoka**, Hiroyuki Shindo, and Yuji Matsumoto. Stochastic Tokenization with a Language Model for Neural Text Classification. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
 ## Preprint
 - Youmi Ma, **Tatsuya Hiraoka**, Naoaki Okazaki. [Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations](https://arxiv.org/abs/2010.07522). 2020. ArXiv. 
