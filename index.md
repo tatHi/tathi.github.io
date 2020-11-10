@@ -18,7 +18,7 @@
 [Google Scholar](https://scholar.google.co.jp/citations?user=Ncbfy0UAAAAJ)
 
 ## Refereed
-- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Optimizing Word Segmentation for Downstream Task. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pages 1341–1351, Association for Computational Linguistics, November 2020.
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Task](https://www.aclweb.org/anthology/2020.findings-emnlp.120.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pages 1341–1351, Association for Computational Linguistics, November 2020.
     - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, and Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
