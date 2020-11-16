@@ -11,8 +11,11 @@
 
 # Education
 - 2019.4 - **Tokyo Institute of Technology**, Okazaki Lab.
+    - Supervisor: Prof. Naoaki Okazaki
 - 2017.4 - 2019.3 **Nara Institute of Science and Technology**, Computational Linguistics Lab (Master of Engineering)
+    - Supervisor: Prof. Yuji Matsumoto
 - 2013.4 - 2017.3 **Waseda University**, School of Education, Department of English Language and Literature (Bachelor of Arts)
+    - Supervisor: Prof. Masakazu Kuno
 
 # Publications
 [Google Scholar](https://scholar.google.co.jp/citations?user=Ncbfy0UAAAAJ)
