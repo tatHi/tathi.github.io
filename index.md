@@ -43,6 +43,9 @@
 - 東京工業大学つばめ博士学生奨学金（特別奨学金）
 - 第242回自然言語処理研究会. 若手奨励賞. 2019-10-25. **平岡 達也**. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
+# Reviewer
+- EMNLP 2020, Secondary Reviewer
+
 # Work
 - 2019.4 - wevnal, inc.
     - Media writer introducing AI papers at [AI-SCHOLAR](https://ai-scholar.tech/author/tatsuya-hiraoka).
