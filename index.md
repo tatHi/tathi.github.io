@@ -11,7 +11,7 @@
     - Syntax
 
 # Education
-- 2019.4 - **Tokyo Institute of Technology**, Okazaki Lab.
+- 2019.4 - (Current) **Tokyo Institute of Technology**, Okazaki Lab.
     - Supervisor: Prof. Naoaki Okazaki
 - 2017.4 - 2019.3 **Nara Institute of Science and Technology**, Computational Linguistics Lab (Master of Engineering).
     - Supervisor: Prof. Yuji Matsumoto
