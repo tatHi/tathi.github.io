@@ -11,7 +11,7 @@
     - Syntax
 
 # Education
-- 2019.4 - (Current) **Tokyo Institute of Technology**, Okazaki Lab.
+- 2019.4 - (Current) **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html).
     - Supervisor: Prof. Naoaki Okazaki
 - 2017.4 - 2019.3 **Nara Institute of Science and Technology**, Computational Linguistics Lab (Master of Engineering).
     - Supervisor: Prof. Yuji Matsumoto
@@ -64,6 +64,7 @@
     - Work on named entity recognition (NER)
 
 # Contact
-- [github](https://github.com/tathi)
-- [twitter](https://twitter.com/7a7hi)
-- email: see [lab's web site](https://www.nlp.c.titech.ac.jp/members.en.html).
+- [GitHub](https://github.com/tathi)
+- [Twitter](https://twitter.com/7a7hi)
+- [Linkedin](https://www.linkedin.com/in/tatsuya-hiraoka-2040b51b8/)
+- Email: tathi029[you can guess it]gmail[dot]com
