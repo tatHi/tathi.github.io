@@ -48,13 +48,16 @@
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
 ## Awards
-- 東京工業大学つばめ博士学生奨学金（特別奨学金）
+- 東京工業大学つばめ博士学生奨学金（2020年度特別奨学金）.
 - 第242回自然言語処理研究会. 若手奨励賞. 2019-10-25. **平岡 達也**. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
-# Reviewer
-- EMNLP 2020, Secondary Reviewer
+# Talk
+- 文系的な興味を理系的な達成目標に変換する. 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 
-# Work
+# Reviewer
+- The 2020 Conference on Empirical Methods in Natural Language Processing, Secondary Reviewer.
+
+# Work Experience
 - 2019.1 - (Current) Retrieva, inc.
     - Part-time engineer
 - 2019.4 - 2020.6 wevnal, inc.
@@ -67,4 +70,4 @@
 - [GitHub](https://github.com/tathi)
 - [Twitter](https://twitter.com/7a7hi)
 - [Linkedin](https://www.linkedin.com/in/tatsuya-hiraoka-2040b51b8/)
-- Email: tathi029[you can guess it]gmail[dot]com
+- Email: tathi029 [what you can guess] gmail [dot] com
