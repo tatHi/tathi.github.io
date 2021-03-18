@@ -34,11 +34,11 @@
 - Youmi Ma, **Tatsuya Hiraoka**, Naoaki Okazaki. [Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations](https://arxiv.org/abs/2010.07522). 2020. ArXiv. 
 
 ## Unrefereed
-- **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. 後段モデルの損失値を用いた単語分割のタスクへの最適化. 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.
+- **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. 後段モデルの損失値を用いた単語分割のタスクへの最適化. 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.(**若手奨励賞**)
 - 昇 夏海, **平岡 達也**, 丹羽 彩奈, 西口 佳佑, 岡崎 直観. 企業情報を考慮したキャッチコピーの自動生成. 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.
-- Youmi Ma, **平岡 達也**, 岡崎 直観. BERTを用いたTable-Fillingによる固有表現抽出と関係抽出. 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.
+- Youmi Ma, **平岡 達也**, 岡崎 直観. BERTを用いたTable-Fillingによる固有表現抽出と関係抽出. 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.(筆頭著者が**若手奨励賞**)
 - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [RNNにより高次の依存を考慮したニューラル隠れマルコフモデル](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P6-5.pdf). 言語処理学会第26回年次大会 (NLP2020), pp. A4–2 (4 pages), 茨城大学（茨城県）, 2020年3月.
-- **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [RNNによる遷移確率計算を用いた隠れマルコフモデル](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=199747&item_no=1). 第242回自然言語処理研究会, 2019-NL-242(2), pp. 1–6, 奈良先端科学技術大学院大学（奈良県）, 2019年10月. (若手奨励賞)
+- **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [RNNによる遷移確率計算を用いた隠れマルコフモデル](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=199747&item_no=1). 第242回自然言語処理研究会, 2019-NL-242(2), pp. 1–6, 奈良先端科学技術大学院大学（奈良県）, 2019年10月. (**若手奨励賞**)
 - **平岡 達也**，進藤 裕之，松本 裕治．[確率的トークナイザーを用いたニューラル感情分析](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-15.pdf)，言語処理学会第 25 回年次大会発表論文集 (NLP2019)，2019．
 - **平岡 達也**，進藤 裕之，松本 裕治．[教師なしニューラル単語分割を用いた分散表現獲得](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=190355&item_no=1)，研究報告自然言語処理（NL），Vol.2018-NL-236，No.2，pp.1-7， 2018．
 
@@ -48,6 +48,7 @@
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
 ## Awards
+- 言語処理学会第27回年次大会（NLP2021）．若手奨励賞．2021年3月18日．平岡 達也．後段モデルの損失値を用いた単語分割のタスクへの最適化．
 - 東京工業大学つばめ博士学生奨学金（2020年度特別奨学金）.
 - 第242回自然言語処理研究会. 若手奨励賞. 2019-10-25. **平岡 達也**. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
