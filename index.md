@@ -53,7 +53,7 @@
 - 第242回自然言語処理研究会. 若手奨励賞. 2019年10月25日. 平岡 達也. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
 # Talk
-- 文系的な興味を理系的な達成目標に変換する. 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
+- [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 
 # Reviewer
 - The 2020 Conference on Empirical Methods in Natural Language Processing, Secondary Reviewer.
