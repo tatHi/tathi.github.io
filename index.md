@@ -26,6 +26,7 @@
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector. Journal of Natural Language Processing, vol. 28, No. 2, June 2021. (In Japanese, to appear)
 
 ### Conference
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Joint Optimization of Tokenization and Downstream Model. In Findings of the Association for Computational Linguistics: ACL 2021, Association for Computational Linguistics, August 2021.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Task](https://www.aclweb.org/anthology/2020.findings-emnlp.120.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pages 1341–1351, Association for Computational Linguistics, November 2020.
     - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
@@ -34,9 +35,9 @@
 - Youmi Ma, **Tatsuya Hiraoka**, Naoaki Okazaki. [Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations](https://arxiv.org/abs/2010.07522). 2020. ArXiv. 
 
 ## Unrefereed
-- **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [後段モデルの損失値を用いた単語分割のタスクへの最適化](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D3-2.pdf). 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.(**若手奨励賞**)
-- 昇 夏海, **平岡 達也**, 丹羽 彩奈, 西口 佳佑, 岡崎 直観. [企業情報を考慮したキャッチコピーの自動生成](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B3-3.pdf). 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.
-- Youmi Ma, **平岡 達也**, 岡崎 直観. [BERTを用いたTable-Fillingによる固有表現抽出と関係抽出](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/C7-3.pdf). 言語処理学会第27回年次大会 (NLP2021), to appear, 2021年3月.(筆頭著者が**若手奨励賞**)
+- **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [後段モデルの損失値を用いた単語分割のタスクへの最適化](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D3-2.pdf). 言語処理学会第27回年次大会 (NLP2021), pp. 486–491, 2021年3月.(**若手奨励賞**)
+- 昇 夏海, **平岡 達也**, 丹羽 彩奈, 西口 佳佑, 岡崎 直観. [企業情報を考慮したキャッチコピーの自動生成](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B3-3.pdf). 言語処理学会第27回年次大会 (NLP2021), pp. 450–454, 2021年3月.
+- Youmi Ma, **平岡 達也**, 岡崎 直観. [BERTを用いたTable-Fillingによる固有表現抽出と関係抽出](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/C7-3.pdf). 言語処理学会第27回年次大会 (NLP2021), pp. 1274–1279, 2021年3月.(筆頭著者が**若手奨励賞**)
 - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [RNNにより高次の依存を考慮したニューラル隠れマルコフモデル](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P6-5.pdf). 言語処理学会第26回年次大会 (NLP2020), pp. A4–2 (4 pages), 茨城大学（茨城県）, 2020年3月.
 - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [RNNによる遷移確率計算を用いた隠れマルコフモデル](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=199747&item_no=1). 第242回自然言語処理研究会, 2019-NL-242(2), pp. 1–6, 奈良先端科学技術大学院大学（奈良県）, 2019年10月. (**若手奨励賞**)
 - **平岡 達也**，進藤 裕之，松本 裕治．[確率的トークナイザーを用いたニューラル感情分析](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-15.pdf)，言語処理学会第 25 回年次大会発表論文集 (NLP2019)，2019．
