@@ -23,10 +23,10 @@
 
 ## Refereed
 ### Journal
-- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector. Journal of Natural Language Processing, vol. 28, No. 2, June 2021. (In Japanese, to appear)
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, June 2021. (In Japanese, to appear)
 
 ### Conference
-- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Joint Optimization of Tokenization and Downstream Model. In Findings of the Association for Computational Linguistics: ACL 2021, Association for Computational Linguistics, August 2021.
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Joint Optimization of Tokenization and Downstream Model](https://arxiv.org/abs/2105.12410). In Findings of the Association for Computational Linguistics: ACL 2021, Association for Computational Linguistics, August 2021.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Task](https://www.aclweb.org/anthology/2020.findings-emnlp.120.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pages 1341–1351, Association for Computational Linguistics, November 2020.
     - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
