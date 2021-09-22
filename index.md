@@ -56,17 +56,20 @@
 - 言語処理学会第27回年次大会（NLP2021）．若手奨励賞．2021年3月18日．平岡 達也．後段モデルの損失値を用いた単語分割のタスクへの最適化．
 - 第242回自然言語処理研究会. 若手奨励賞. 2019年10月25日. 平岡 達也. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
+## Resarch Grants
+- 2021.10-2024.4
+    - 国立研究開発法人科学技術振興機構 (Japan Science and Technology Agency, JST), ACT-X.
+
 # Talk
 - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 
 # Reviewer
-- The 2020 Conference on Empirical Methods in Natural Language Processing, Secondary Reviewer.
+- The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021).
+- The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Secondary Reviewer.
 
 # Work Experience
 - 2019.1 - (Current) Retrieva, inc.
     - Part-time engineer
-- 2019.4 - 2020.6 wevnal, inc.
-    - Media writer introducing AI papers at [AI-SCHOLAR](https://ai-scholar.tech/author/tatsuya-hiraoka).
 - 2017.8 - 2017.9, Retrieva, inc.
     - Internship: [report(Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
     - Work on named entity recognition (NER)
