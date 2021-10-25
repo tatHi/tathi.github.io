@@ -59,6 +59,7 @@
 ## Resarch Grants
 - 2021.10-2024.4
     - 国立研究開発法人科学技術振興機構 (Japan Science and Technology Agency, JST), ACT-X.
+    - 人間とAIの双方に扱いやすいことばの単位の創出
 
 # Talk
 - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
