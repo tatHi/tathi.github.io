@@ -23,6 +23,8 @@
 
 ## Refereed
 ### Journal
+- Youmi Ma, **Tatsuya Hiraoka**, and Naoaki Okazaki. Named Entity Recognition and Relation Extraction Using Enhanced Table Filling by Contextualized Representations. Journal of Natural Language Processing, vol. 29, No. 1, pages (to appear), March 2022.
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Joint Optimization of Word Segmentation and Downstream Model using Downstream Loss. Journal of Natural Language Processing, vol. 29, No. 1, pages (to appear), March 2022. (In Japanese)
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Recurrent Neural Hidden Markov Model for High-Order Transition](https://dl.acm.org/doi/10.1145/3476511). ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). Volume 21, Issue 2, Article No.: 36, pp: 1-15. March 2022.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, pages 479-507, June 2021. (In Japanese)
 
