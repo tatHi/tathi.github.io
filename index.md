@@ -10,6 +10,12 @@
     - Language Acquisition
     - Syntax
 
+# Contact
+- [GitHub](https://github.com/tathi)
+- [Twitter](https://twitter.com/7a7hi)
+- [Linkedin](https://www.linkedin.com/in/tatsuya-hiraoka-2040b51b8/)
+- Email: tathi029 [what you can guess] gmail [dot] com
+
 # Education
 - 2019.4 - (Current) **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html).
     - Supervisor: Prof. Naoaki Okazaki
@@ -66,9 +72,11 @@
 # Talk
 - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 
-# Reviewer
-- The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021).
-- The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Secondary Reviewer.
+# Activity
+- Reviewer
+    - ACL Rolling Review
+    - The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021).
+    - The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Secondary Reviewer.
 
 # Work Experience
 - 2019.1 - (Current) Retrieva, inc.
@@ -77,8 +85,3 @@
     - Internship: [report(Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
     - Work on named entity recognition (NER)
 
-# Contact
-- [GitHub](https://github.com/tathi)
-- [Twitter](https://twitter.com/7a7hi)
-- [Linkedin](https://www.linkedin.com/in/tatsuya-hiraoka-2040b51b8/)
-- Email: tathi029 [what you can guess] gmail [dot] com
