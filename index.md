@@ -3,7 +3,7 @@
 
 # Research Interests
 - Natural Language Processing
-    - Word Segmentation
+    - Word Segmentation / Tokenization
     - Morphology
     - Named Entity Recognition
 - Linguistics
@@ -35,6 +35,8 @@
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, pages 479-507, June 2021. (In Japanese)
 
 ### Conference
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Word-level Perturbation Considering Word Length and Compositional Subwords. In Findings of the Association for Computational Linguistics: ACL 2022, pages (to appear), Dublin, May 2022.
+- Sho Takase, **Tatsuya Hiraoka**, and Naoaki Okazaki. Single Model Ensemble for Subword Regularized Models in Low-Resource Machine Translation. In Findings of the Association for Computational Linguistics: ACL 2022, pages (to appear), Dublin, May 2022.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Joint Optimization of Tokenization and Downstream Model](https://aclanthology.org/2021.findings-acl.21). In Findings of the Association for Computational Linguistics: ACL 2021, Association for Computational Linguistics, August 2021.
     - (Presentation slot is assigned in WAT2021).
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Task](https://www.aclweb.org/anthology/2020.findings-emnlp.120.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pages 1341–1351, Association for Computational Linguistics, November 2020.
