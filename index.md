@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/16539238/159485895-1c267eea-a999-4d2b-a2ca-3ba0b967cc89.jpg" width="300">
 
 平岡 達也 (Hiraoka, Tatsuya)
 
@@ -32,7 +33,7 @@
 - Youmi Ma, **Tatsuya Hiraoka**, and Naoaki Okazaki. Named Entity Recognition and Relation Extraction Using Enhanced Table Filling by Contextualized Representations. Journal of Natural Language Processing, vol. 29, No. 1, pages (to appear), March 2022.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. Joint Optimization of Word Segmentation and Downstream Model using Downstream Loss. Journal of Natural Language Processing, vol. 29, No. 1, pages (to appear), March 2022. (In Japanese)
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Recurrent Neural Hidden Markov Model for High-Order Transition](https://dl.acm.org/doi/10.1145/3476511). ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP). Volume 21, Issue 2, Article No.: 36, pp: 1-15. March 2022.
-- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, pages 479-507, June 2021. (In Japanese)
+- **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, pages 479-507, June 2021. (In Japanese, **最優秀論文賞**)
 
 ### Conference
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. Word-level Perturbation Considering Word Length and Compositional Subwords. In Findings of the Association for Computational Linguistics: ACL 2022, pages (to appear), Dublin, May 2022.
@@ -47,6 +48,9 @@
 - Youmi Ma, **Tatsuya Hiraoka**, Naoaki Okazaki. [Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations](https://arxiv.org/abs/2010.07522). 2020. ArXiv. 
 
 ## Unrefereed
+- **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. 単語の長さと構成要素を考慮した単語レベルの摂動. 言語処理学会第28回年次大会 (NLP2022), 6 pages, 2022年3月. 
+- 植木 滉一郎, **平岡 達也**, 岡崎 直観. 記事に忠実ではない訓練事例も活用した見出し生成モデルの忠実性の改善法. 言語処理学会第28回年次大会 (NLP2022), 6 pages, 2022年3月. 
+- Youmi Ma, **平岡 達也**, 岡崎 直観. 畳み込みニューラルネットワークを用いた表ラベリングによる固有表現認識と関係抽出. 言語処理学会第28回年次大会 (NLP2022), 6 pages, 2022年3月.
 - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [後段モデルの損失値を用いた単語分割のタスクへの最適化](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D3-2.pdf). 言語処理学会第27回年次大会 (NLP2021), pp. 486–491, 2021年3月.(**若手奨励賞**)
 - 昇 夏海, **平岡 達也**, 丹羽 彩奈, 西口 佳佑, 岡崎 直観. [企業情報を考慮したキャッチコピーの自動生成](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B3-3.pdf). 言語処理学会第27回年次大会 (NLP2021), pp. 450–454, 2021年3月.
 - Youmi Ma, **平岡 達也**, 岡崎 直観. [BERTを用いたTable-Fillingによる固有表現抽出と関係抽出](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/C7-3.pdf). 言語処理学会第27回年次大会 (NLP2021), pp. 1274–1279, 2021年3月.(筆頭著者が**若手奨励賞**)
