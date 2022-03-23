@@ -44,9 +44,6 @@
     - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
-## Preprint
-- Youmi Ma, **Tatsuya Hiraoka**, Naoaki Okazaki. [Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations](https://arxiv.org/abs/2010.07522). 2020. ArXiv. 
-
 ## Unrefereed
 - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. 単語の長さと構成要素を考慮した単語レベルの摂動. 言語処理学会第28回年次大会 (NLP2022), 6 pages, 2022年3月. 
 - 植木 滉一郎, **平岡 達也**, 岡崎 直観. 記事に忠実ではない訓練事例も活用した見出し生成モデルの忠実性の改善法. 言語処理学会第28回年次大会 (NLP2022), 6 pages, 2022年3月. 
@@ -65,6 +62,7 @@
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
 # Awards
+- 2021年度言語処理学会論文賞（Vol. 28）. 平岡 達也, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観．テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化．
 - 東京工業大学つばめ博士学生奨学金（2020年度，2021年度特別奨学金）.
     - 特に優秀な学業成績を修めた学生（2年次～3年次の全奨学生の20%程度）
 - 言語処理学会第27回年次大会（NLP2021）．若手奨励賞．2021年3月18日．平岡 達也．後段モデルの損失値を用いた単語分割のタスクへの最適化．
@@ -75,17 +73,17 @@
     - 国立研究開発法人科学技術振興機構 (Japan Science and Technology Agency, JST), ACT-X.
     - 人間とAIの双方に扱いやすいことばの単位の創出
 
-# Talk
-- [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
-
 # Activity
+- Talk
+    - [テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://speakerdeck.com/tathi/optimizing-tokenization-nlp2022-talk)．言語処理学会第28回年次大会，招待論文．
+    - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 - Reviewer
     - ACL Rolling Review
     - The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021).
     - The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Secondary Reviewer.
 
 # Work Experience
-- 2019.1 - (Current) Retrieva, inc.
+- 2019.1 - 2022.3, Retrieva, inc.
     - Part-time engineer
 - 2017.8 - 2017.9, Retrieva, inc.
     - Internship: [report(Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
