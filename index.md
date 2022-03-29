@@ -17,7 +17,7 @@
 - Email: tathi029 [what you can guess] gmail [dot] com
 
 # Education
-- 2019.4 - (Current) **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html).
+- 2019.4 - 2022.3 **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html) (Doctor of Engineering).
     - Supervisor: Prof. Naoaki Okazaki
 - 2017.4 - 2019.3 **Nara Institute of Science and Technology**, Computational Linguistics Lab (Master of Engineering).
     - Supervisor: Prof. Yuji Matsumoto
