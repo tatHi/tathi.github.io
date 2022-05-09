@@ -45,7 +45,7 @@
     - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
-## Unrefereed
+## Non-refereed
 - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [単語の長さと構成要素を考慮した単語レベルの摂動](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-6.pdf). 言語処理学会第28回年次大会 (NLP2022), pp. 1455-1460, 2022年3月. 
 - 植木 滉一郎, **平岡 達也**, 岡崎 直観. [記事に忠実ではない訓練事例も活用した見出し生成モデルの忠実性の改善法](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D8-4.pdf). 言語処理学会第28回年次大会 (NLP2022), pp. 2002-2007, 2022年3月. 
 - Youmi Ma, **平岡 達也**, 岡崎 直観. [畳み込みニューラルネットワークを用いた表ラベリングによる固有表現認識と関係抽出](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/F5-3.pdf). 言語処理学会第28回年次大会 (NLP2022), pp. 1197-1202, 2022年3月.
