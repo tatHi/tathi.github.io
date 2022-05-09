@@ -57,7 +57,7 @@
 - **平岡 達也**，進藤 裕之，松本 裕治．[確率的トークナイザーを用いたニューラル感情分析](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-15.pdf)，言語処理学会第 25 回年次大会発表論文集 (NLP2019)，2019．
 - **平岡 達也**，進藤 裕之，松本 裕治．[教師なしニューラル単語分割を用いた分散表現獲得](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=190355&item_no=1)，研究報告自然言語処理（NL），Vol.2018-NL-236，No.2，pp.1-7， 2018．
 
-## Unrefereed Presentations
+## Non-refereed Presentations
 - 昇 夏海, **平岡 達也**, 丹羽 彩奈, 岡﨑 直観, 脇本 宏平, 黒田 和矢, 西口 佳佑. 企業情報を考慮した広告文の自動生成. 第15回NLP若手の会シンポジウム, 2020年9月.
 - **平岡 達也**, 高瀬 翔, 岡崎 直観. RNNによる遷移確率計算を用いた隠れマルコフモデル. 第14回NLP若手の会シンポジウム, p. 79, 2019年8月.
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
@@ -87,8 +87,8 @@
 - 2022.4 - Current, Fujitsu Limited.
     - Researcher
 - 2019.1 - 2022.3, Retrieva, inc.
-    - Part-time engineer
+    - Part-time Researcher
 - 2017.8 - 2017.9, Retrieva, inc.
-    - Internship: [report(Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
+    - Internship: [report (Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
     - Work on named entity recognition (NER)
 
