@@ -75,6 +75,8 @@
     - 人間とAIの双方に扱いやすいことばの単位の創出
 
 # Activity
+- Other Publications
+    - [単語分割の最適化に関する研究は雑談と偶然の出会いに育まれた](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_688/_article/-char/ja)．2021年度言語処理学会論文賞（Vol. 28）に関する学会記事．
 - Talks
     - [テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://speakerdeck.com/tathi/optimizing-tokenization-nlp2022-talk)．言語処理学会第28回年次大会，招待論文．
     - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
@@ -82,6 +84,8 @@
     - ACL Rolling Review
     - The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021).
     - The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Secondary Reviewer.
+- Committee
+    - [NLP若手の会 (YANS) 第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
 
 # Work Experience
 - 2022.4 - Current, Fujitsu Limited.
