@@ -36,6 +36,7 @@
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, pages 479-507, June 2021. (In Japanese, **Best Paper Award / 最優秀論文賞**)
 
 ### Conference and Workshop
+- **Tatsuya Hiraoka**. MaxMatch-Dropout: Subword Regularization for WordPiece. In Proceedings of the 29th International Conference on Computational Linguistics (COLING), pages (to appear), Gyeongju, Republic of Korea, October 2022.
 - Youmi Ma, **Tatsuya Hiraoka**, and Naoaki Okazaki. [Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks](https://aclanthology.org/2022.spnlp-1.2/). In 6th Workshop on Structured Prediction for NLP (SPNLP), pages 11-21, Dublin, May 2022.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Word-level Perturbation Considering Word Length and Compositional Subwords](https://aclanthology.org/2022.findings-acl.258/). In Findings of the Association for Computational Linguistics: ACL 2022, pages 3268-3275, Dublin, May 2022.
 - Sho Takase, **Tatsuya Hiraoka**, and Naoaki Okazaki. [Single Model Ensemble for Subword Regularized Models in Low-Resource Machine Translation](https://aclanthology.org/2022.findings-acl.199/). In Findings of the Association for Computational Linguistics: ACL 2022, pages (to appear), Dublin, May 2022.
