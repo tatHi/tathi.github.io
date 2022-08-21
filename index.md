@@ -64,6 +64,8 @@
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
 # Awards
+- 2021年度 情報処理学会研究会推薦博士論文. Tatsuya Hiraoka. Task-Oriented Word Segmentation.
+    - [解説記事](https://note.com/ipsj/n/n41b7c2625461?magazine_key=maf0952f50ef4)
 - 2021年度言語処理学会論文賞（Vol. 28）. 平岡 達也, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観．テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化．
 - 東京工業大学つばめ博士学生奨学金（2020年度，2021年度特別奨学金）.
     - 特に優秀な学業成績を修めた学生（2年次～3年次の全奨学生の20%程度）
