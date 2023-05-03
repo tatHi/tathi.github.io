@@ -89,15 +89,15 @@
     - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 - Committee
     - [NLP若手の会 (YANS) 第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
-- Lecture
-    - オブジェクト指向プログラミング（愛媛大学工学部）, 2022.
 
 # Work Experience
-- 2022.4 - Current, Fujitsu Limited.
-    - Researcher
-- 2019.1 - 2022.3, Retrieva, inc.
-    - Part-time Researcher
-- 2017.8 - 2017.9, Retrieva, inc.
-    - Internship: [report (Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
-    - Work on named entity recognition (NER)
-
+- Research Experiennce
+    - 2022.4 - Current, Fujitsu Limited.
+        - Researcher
+    - 2019.1 - 2022.3, Retrieva, inc.
+        - Part-time Researcher
+    - 2017.8 - 2017.9, Retrieva, inc.
+        - Internship: [report (Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
+        - Work on named entity recognition (NER)
+- Teaching Experience
+    - Object Oriented Programming (Ehime University), 2022.
