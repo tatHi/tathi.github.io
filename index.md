@@ -15,7 +15,7 @@
 - [GitHub](https://github.com/tathi)
 - [Twitter](https://twitter.com/7a7hi)
 - [Linkedin](https://www.linkedin.com/in/tatsuya-hiraoka-2040b51b8/)
-- Email: tathi029 [what you can guess] gmail [dot] com
+- Email: tathi029 🎨 gmail 🐶 com
 
 # Education
 - 2019.4 - 2022.3 **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html) (Doctor of Engineering).
