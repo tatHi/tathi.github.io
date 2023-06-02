@@ -94,8 +94,10 @@
 - Research Experiennce
     - 2022.4 - Current, Fujitsu Limited.
         - Researcher
+    - 2023.6 - Current, Tokyo Institute of Technology.
+        - Part time researcher
     - 2019.1 - 2022.3, Retrieva, inc.
-        - Part-time Researcher
+        - Part time researcher
     - 2017.8 - 2017.9, Retrieva, inc.
         - Internship: [report (Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
         - Work on named entity recognition (NER)
