@@ -66,6 +66,7 @@
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
 # Awards
+- 第10回 AAMT長尾賞学生奨励賞. Tatsuya Hiraoka. Task-Oriented Word Segmentation.
 - 2021年度 情報処理学会研究会推薦博士論文. Tatsuya Hiraoka. Task-Oriented Word Segmentation.
     - [解説記事](https://note.com/ipsj/n/n41b7c2625461?magazine_key=maf0952f50ef4)
 - 2021年度東京工業大学情報工学系知能情報コース修了代表者
@@ -82,6 +83,7 @@
 
 # Activity
 - Other Publications
+    - 博士号とった人に聞いてみた. 情報処理 64 (6), 298-298, 2023-05-15.
     - [単語分割の最適化に関する研究は雑談と偶然の出会いに育まれた](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_688/_article/-char/ja)．2021年度言語処理学会論文賞（Vol. 28）に関する学会記事．
 - Talks
     - [最長一致法のためのサブワード正則化手法（MaxMatch-Dropout）とその周辺の話](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua). [NLPコロキウム](https://nlp-colloquium-jp.github.io/), 2022.12.14. ([録画])(https://www.youtube.com/watch?v=6GbhzLSj_5s)
