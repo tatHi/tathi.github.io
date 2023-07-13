@@ -86,7 +86,7 @@
     - 博士号とった人に聞いてみた. 情報処理 64 (6), 298-298, 2023-05-15.
     - [単語分割の最適化に関する研究は雑談と偶然の出会いに育まれた](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_688/_article/-char/ja)．2021年度言語処理学会論文賞（Vol. 28）に関する学会記事．
 - Talks
-    - [最長一致法のためのサブワード正則化手法（MaxMatch-Dropout）とその周辺の話](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua). [NLPコロキウム](https://nlp-colloquium-jp.github.io/), 2022.12.14. ([録画])(https://www.youtube.com/watch?v=6GbhzLSj_5s)
+    - [最長一致法のためのサブワード正則化手法（MaxMatch-Dropout）とその周辺の話](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua). [NLPコロキウム](https://nlp-colloquium-jp.github.io/), 2022.12.14. ([録画](https://www.youtube.com/watch?v=6GbhzLSj_5s))
     - [テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://speakerdeck.com/tathi/optimizing-tokenization-nlp2022-talk)．言語処理学会第28回年次大会，招待論文．
     - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 - Committee
