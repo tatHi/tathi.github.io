@@ -47,6 +47,8 @@
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
 ## Non-refereed
+- **Tatsuya Hiraoka**, Tomoya Iwakura. [Tokenization Tractability for Human and Machine Learning Model: An Annotation Study](https://arxiv.org/abs/2304.10813). arXiv:2304.10813.
+- **Tatsuya Hiraoka**, Tomoya Iwakura. [Downstream Task-Oriented Neural Tokenizer Optimization with Vocabulary Restriction as Post Processing](https://arxiv.org/abs/2304.10808). arXiv:2304.10808.
 - **平岡達也**, 岩倉友哉. [人間と機械学習のモデルそれぞれに扱いやすいトークン分割に関する実験と考察](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-5.pdf).  言語処理学会第29回年次大会 (NLP2023), pp. 727-731, 2023年3月.
 - **平岡達也**, 岩倉友哉. [語彙制約付きニューラル単語分割器を用いた後処理としての単語分割の後段タスクへの最適化](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q6-5.pdf).  言語処理学会第29回年次大会 (NLP2023), pp. 1503-1507, 2023年3月.
 - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観. [単語の長さと構成要素を考慮した単語レベルの摂動](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-6.pdf). 言語処理学会第28回年次大会 (NLP2022), pp. 1455-1460, 2022年3月. 
