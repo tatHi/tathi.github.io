@@ -98,7 +98,7 @@
         - 第30回年次大会（NLP2024）
     - NLP若手の会 (YANS)，運営委員（会場担当）．
         -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
-        -  [第18回シンポジウム (2028)](https://yans.anlp.jp/entry/yans2023)
+        -  [第18回シンポジウム (2023)](https://yans.anlp.jp/entry/yans2023)
 
 # Work Experience
 - Research Experiennce
