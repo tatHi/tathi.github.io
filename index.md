@@ -93,7 +93,12 @@
     - [テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://speakerdeck.com/tathi/optimizing-tokenization-nlp2022-talk)．言語処理学会第28回年次大会，招待論文．
     - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 - Committee
-    - [NLP若手の会 (YANS) 第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
+    - 言語処理学会　会誌「自然言語処理」　編集委員（2023.9-）
+    - 言語処理学会年次大会，運営委員（プログラム編成担当）．
+        - 第30回年次大会（NLP2024）
+    - NLP若手の会 (YANS)，運営委員（会場担当）．
+        -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
+        -  [第18回シンポジウム (2028)](https://yans.anlp.jp/entry/yans2023)
 
 # Work Experience
 - Research Experiennce
