@@ -36,7 +36,7 @@
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, pages 479-507, June 2021. (In Japanese, **Best Paper Award / 最優秀論文賞**)
 
 ### Conference and Workshop
-- Teruno Kajiura, Shiho Takano, **Tatsuya Hiraoka**, Kimio Kuramitsu. Vocabulary Replacement in SentencePiece for Domain Adaptation. In Proceedings of The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37). December 2023.
+- Teruno Kajiura, Shiho Takano, **Tatsuya Hiraoka**, Kimio Kuramitsu. [Vocabulary Replacement in SentencePiece for Domain Adaptation](https://aclanthology.org/2023.paclic-1.64/). In Proceedings of The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37). December 2023.
 - **Tatsuya Hiraoka**. [MaxMatch-Dropout: Subword Regularization for WordPiece](https://aclanthology.org/2022.coling-1.430/). In Proceedings of the 29th International Conference on Computational Linguistics (COLING), pages 4864-4872, Gyeongju, Republic of Korea, October 2022.
 - Youmi Ma, **Tatsuya Hiraoka**, and Naoaki Okazaki. [Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks](https://aclanthology.org/2022.spnlp-1.2/). In 6th Workshop on Structured Prediction for NLP (SPNLP), pages 11-21, Dublin, May 2022.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Word-level Perturbation Considering Word Length and Compositional Subwords](https://aclanthology.org/2022.findings-acl.258/). In Findings of the Association for Computational Linguistics: ACL 2022, pages 3268-3275, Dublin, May 2022.
@@ -48,8 +48,10 @@
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
 ## Non-refereed
+- **Tatsuya Hiraoka**, Naoaki Okazaki. [Knowledge of Pretrained Language Models on Surface Information of Tokens](https://arxiv.org/abs/2402.09808). arXiv:2402.09808. 2024.
 - 梶浦照乃, 髙野志歩, 相馬菜生, **平岡達也**, 倉光君郎. ドメイン適応のためのSentencePieceにおける語彙追加. 第257回 自然言語処理研究発表会. 2023.
-- **Tatsuya Hiraoka**, Tomoya Iwakura. [Tokenization Tractability for Human and Machine Learning Model: An Annotation Study](https://arxiv.org/abs/2304.10813). arXiv:2304.10813. 2023.
+- **Tatsuya Hiraoka**, Tomoya Iwakura. [Tokenization Preference for Human and Machine Learning Model: An Annotation Study
+](https://arxiv.org/abs/2304.10813). arXiv:2304.10813. 2023.
 - **Tatsuya Hiraoka**, Tomoya Iwakura. [Downstream Task-Oriented Neural Tokenizer Optimization with Vocabulary Restriction as Post Processing](https://arxiv.org/abs/2304.10808). arXiv:2304.10808. 2023.
 - **平岡達也**, 岩倉友哉. [人間と機械学習のモデルそれぞれに扱いやすいトークン分割に関する実験と考察](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-5.pdf).  言語処理学会第29回年次大会 (NLP2023), pp. 727-731, 2023年3月.
 - **平岡達也**, 岩倉友哉. [語彙制約付きニューラル単語分割器を用いた後処理としての単語分割の後段タスクへの最適化](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q6-5.pdf).  言語処理学会第29回年次大会 (NLP2023), pp. 1503-1507, 2023年3月.
