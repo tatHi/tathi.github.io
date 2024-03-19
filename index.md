@@ -48,6 +48,9 @@
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
 ## Non-refereed
+- **平岡達也**, 岡崎直観. [事前学習済みの分散表現は表層的な知識を獲得しているか](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-6.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 2880-2885, 2024年3月.
+- **平岡達也**, 岩倉友哉. [文書分類のためのクラス情報を考慮したトークン分割](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-2.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 1640-1644, 2024年3月.
+- 辻航平, **平岡達也**, 鄭育昌, 岩倉友哉. [サブワード系列の変化が固有表現抽出に与える影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D3-2.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 708-712, 2024年3月.
 - **Tatsuya Hiraoka**, Naoaki Okazaki. [Knowledge of Pretrained Language Models on Surface Information of Tokens](https://arxiv.org/abs/2402.09808). arXiv:2402.09808. 2024.
 - 梶浦照乃, 髙野志歩, 相馬菜生, **平岡達也**, 倉光君郎. ドメイン適応のためのSentencePieceにおける語彙追加. 第257回 自然言語処理研究発表会. 2023.
 - **Tatsuya Hiraoka**, Tomoya Iwakura. [Tokenization Preference for Human and Machine Learning Model: An Annotation Study
@@ -83,6 +86,9 @@
 - 第242回自然言語処理研究会. 若手奨励賞. 2019年10月25日. 平岡 達也. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
 # Resarch Grants
+- 2024.04-2026.3
+    - 科学研究費助成事業（科研費）　若手研究
+    - 自然言語処理に最適な語彙と分割の仕方を自動で獲得する人工知能の創出
 - 2021.10-2024.4
     - 国立研究開発法人科学技術振興機構 (Japan Science and Technology Agency, JST), ACT-X.
     - 人間とAIの双方に扱いやすいことばの単位の創出
@@ -92,12 +98,14 @@
     - 博士号とった人に聞いてみた. 情報処理 64 (6), 298-298, 2023-05-15.
     - [単語分割の最適化に関する研究は雑談と偶然の出会いに育まれた](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_688/_article/-char/ja)．2021年度言語処理学会論文賞（Vol. 28）に関する学会記事．
 - Talks
+    - [生成AI時代の自然言語処理における産学官の役割と課題 パネルディスカッション](https://sites.google.com/view/llm-discussion-nlp2024-ws). 言語処理学会第30回年次大会 (NLP2024), 2024.03.15.
     - [未来の博士フェス2023 パネルディスカッション「産業界で活躍する博士人材」](https://www.jst.go.jp/jisedai/mirainohakase2023/). 文部科学省, 国立研究開発法人科学技術振興機構, 2023.9.13. [録画](https://www.youtube.com/watch?v=dQMC4qJGZzk)
     - [最長一致法のためのサブワード正則化手法（MaxMatch-Dropout）とその周辺の話](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua). [NLPコロキウム](https://nlp-colloquium-jp.github.io/), 2022.12.14. ([録画](https://www.youtube.com/watch?v=6GbhzLSj_5s))
     - [テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://speakerdeck.com/tathi/optimizing-tokenization-nlp2022-talk)．言語処理学会第28回年次大会，招待論文．
     - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 - Committee
-    - 言語処理学会　会誌「自然言語処理」　編集委員（2023.9-）
+    - [生成AI時代の自然言語処理における産学官の役割と課題](https://sites.google.com/view/llm-discussion-nlp2024-ws)（共同提案者）
+    - 言語処理学会　会誌「自然言語処理」　編集委員, 2023.9-現在
     - 言語処理学会年次大会，運営委員（プログラム編成担当）．
         - 第30回年次大会（NLP2024）
     - NLP若手の会 (YANS)，運営委員（会場担当）．
