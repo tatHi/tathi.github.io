@@ -48,6 +48,7 @@
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
 ## Non-refereed
+- Marco Cognetta, **Tatsuya Hiraoka**, Naoaki Okazaki, Rico Sennrich, Yuval Pinter. [An Analysis of BPE Vocabulary Trimming in Neural Machine Translation](https://arxiv.org/abs/2404.00397). arXiv:2404.00397. 2024.
 - **平岡達也**, 岡崎直観. [事前学習済みの分散表現は表層的な知識を獲得しているか](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-6.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 2880-2885, 2024年3月.
 - **平岡達也**, 岩倉友哉. [文書分類のためのクラス情報を考慮したトークン分割](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-2.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 1640-1644, 2024年3月.
 - 辻航平, **平岡達也**, 鄭育昌, 岩倉友哉. [サブワード系列の変化が固有表現抽出に与える影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D3-2.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 708-712, 2024年3月.
@@ -116,7 +117,7 @@
 - Research Experiennce
     - 2022.4 - Current, Fujitsu Limited.
         - Researcher
-    - 2023.6 - Current, Tokyo Institute of Technology.
+    - 2023.6 - 2024.3, Tokyo Institute of Technology.
         - Part time researcher
     - 2019.1 - 2022.3, Retrieva, inc.
         - Part time researcher
