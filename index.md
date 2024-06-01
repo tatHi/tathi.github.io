@@ -115,7 +115,9 @@
 
 # Work Experience
 - Research Experiennce
-    - 2022.4 - Current, Fujitsu Limited.
+    - 2024.6 - current, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+        - Research Associate I (Postdoc)
+    - 2022.4 - 2024.5, Fujitsu Limited.
         - Researcher
     - 2023.6 - 2024.3, Tokyo Institute of Technology.
         - Part time researcher
