@@ -115,6 +115,8 @@
 
 # Work Experience
 - Research Experiennce
+    - 2024.8 - current, Institute of Physical and Chemical Research (RIKEN)
+        - Research Scientist
     - 2024.6 - current, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
         - Research Associate I (Postdoc)
     - 2022.4 - 2024.5, Fujitsu Limited.
