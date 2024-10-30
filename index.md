@@ -7,6 +7,7 @@
     - Word Segmentation / Tokenization
     - Morphology
     - Named Entity Recognition
+    - Interpretability
 - Linguistics
     - Language Acquisition
     - Syntax
@@ -17,9 +18,25 @@
 - [Linkedin](https://www.linkedin.com/in/tatsuya-hiraoka-2040b51b8/)
 - Email: tathi029 🎨 gmail 🐶 com
 
+# Work Experience
+- Research Experience
+    - 2024.8 - current, Institute of Physical and Chemical Research (RIKEN)
+        - Research Scientist
+    - 2024.6 - current, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+        - Research Associate I (Postdoc)
+    - 2022.4 - 2024.5, Fujitsu Limited.
+        - Researcher
+    - 2023.6 - 2024.3, Tokyo Institute of Technology.
+        - Part-time researcher
+    - 2019.1 - 2022.3, Retrieva, inc.
+        - Part-time researcher
+    - 2017.8 - 2017.9, Retrieva, inc.
+        - Internship: [report (Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
+
 # Education
 - 2019.4 - 2022.3 **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html) (Doctor of Engineering).
     - Supervisor: Prof. Naoaki Okazaki
+    - Doctoral Dissertation: [Task-Oriented Word Segmentation](https://t2r2.star.titech.ac.jp/rrws/file/CTT100866215/ATD100000413/)
 - 2017.4 - 2019.3 **Nara Institute of Science and Technology**, Computational Linguistics Lab (Master of Engineering).
     - Supervisor: Prof. Yuji Matsumoto
 - 2013.4 - 2017.3 **Waseda University**, School of Education, Department of English Language and Literature (Bachelor of Arts).
@@ -113,20 +130,7 @@
         -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
         -  [第18回シンポジウム (2023)](https://yans.anlp.jp/entry/yans2023)
 
-# Work Experience
-- Research Experiennce
-    - 2024.8 - current, Institute of Physical and Chemical Research (RIKEN)
-        - Research Scientist
-    - 2024.6 - current, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-        - Research Associate I (Postdoc)
-    - 2022.4 - 2024.5, Fujitsu Limited.
-        - Researcher
-    - 2023.6 - 2024.3, Tokyo Institute of Technology.
-        - Part time researcher
-    - 2019.1 - 2022.3, Retrieva, inc.
-        - Part time researcher
-    - 2017.8 - 2017.9, Retrieva, inc.
-        - Internship: [report (Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
+
         - Work on named entity recognition (NER)
 - Teaching Experience
     - Advanced Communication System Engineering. Tokyo Institute of Technology. 2023.
