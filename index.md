@@ -24,14 +24,21 @@
         - Research Scientist
     - 2024.6 - current, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
         - Research Associate I (Postdoc)
+        - [MINT-NLP Team](https://www.mint-nlp-mbzuai.com/)
     - 2022.4 - 2024.5, Fujitsu Limited.
-        - Researcher
+        - Ph.D Researcher
     - 2023.6 - 2024.3, Tokyo Institute of Technology.
-        - Part-time researcher
+        - Part-time Researcher
+    - 2020.4 - 2022.3, The New Energy and Industrial Technology Development Organization.
+        - Research Assistant
+    - 2019.4 - 2020.3, The project of NICT: "Research and Development of Deep Learning Technology for Advanced Multilingual Speech Translation".
+        - Research Assistant
     - 2019.1 - 2022.3, Retrieva, inc.
         - Part-time researcher
     - 2017.8 - 2017.9, Retrieva, inc.
-        - Internship: [report (Youtube, Japanese)](https://www.youtube.com/watch?v=ZQ00AyUY36w)
+        - Internship
+    - 2017.5 - 2019.3, RIKEN Center for Advanced Intelligence Project Knowledge Acquisition Team.
+        - Research Assistant
 
 # Education
 - 2019.4 - 2022.3 **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html) (Doctor of Engineering).
@@ -53,6 +60,7 @@
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Tasks by Weighting Text Vector](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja). Journal of Natural Language Processing, vol. 28, No. 2, pages 479-507, June 2021. (In Japanese, **Best Paper Award / 最優秀論文賞**)
 
 ### Conference and Workshop
+- Marco Cognetta, **Tatsuya Hiraoka**, Rico Sennrich, Yuval Pinter, Naoaki Okazaki. [An Analysis of BPE Vocabulary Trimming in Neural Machine Translation](https://aclanthology.org/2024.insights-1.7/). In Proceedings of the Fifth Workshop on Insights from Negative Results in NLP, pages 48–50, Mexico City, Mexico, June 2024.
 - Teruno Kajiura, Shiho Takano, **Tatsuya Hiraoka**, Kimio Kuramitsu. [Vocabulary Replacement in SentencePiece for Domain Adaptation](https://aclanthology.org/2023.paclic-1.64/). In Proceedings of The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37). December 2023.
 - **Tatsuya Hiraoka**. [MaxMatch-Dropout: Subword Regularization for WordPiece](https://aclanthology.org/2022.coling-1.430/). In Proceedings of the 29th International Conference on Computational Linguistics (COLING), pages 4864-4872, Gyeongju, Republic of Korea, October 2022.
 - Youmi Ma, **Tatsuya Hiraoka**, and Naoaki Okazaki. [Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks](https://aclanthology.org/2022.spnlp-1.2/). In 6th Workshop on Structured Prediction for NLP (SPNLP), pages 11-21, Dublin, May 2022.
@@ -65,7 +73,10 @@
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
 ## Non-refereed
-- Marco Cognetta, **Tatsuya Hiraoka**, Naoaki Okazaki, Rico Sennrich, Yuval Pinter. [An Analysis of BPE Vocabulary Trimming in Neural Machine Translation](https://arxiv.org/abs/2404.00397). arXiv:2404.00397. 2024.
+- **Tatsuya Hiraoka**, Kentaro Inui. [Repetition Neurons: How Do Language Models Produce Repetitions?](https://arxiv.org/abs/2410.13497). arXiv:2410.13497, 2024.
+- Ahmed Oumar El-Shangiti, **Tatsuya Hiraoka**, Hilal AlQuabeh, Benjamin Heinzerling, Kentaro Inui. [The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear Subspaces](https://arxiv.org/abs/2410.13194). arxiv:2410.13194. 2024.
+- Kohei Tsuji, **Tatsuya Hiraoka**, Yuchang Cheng, Tomoya Iwakura. [SubRegWeigh: Effective and Efficient Annotation Weighing with Subword Regularization](https://arxiv.org/abs/2409.06216). arXiv:2409.06216, 2024.
+- Jesse Atuhurra, Iqra Ali, **Tatsuya Hiraoka**, Hidetaka Kamigaito, Tomoya Iwakura, Taro Watanabe. [Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models](https://arxiv.org/abs/2406.15359). arXiv:2406.15359, 2024.
 - **平岡達也**, 岡崎直観. [事前学習済みの分散表現は表層的な知識を獲得しているか](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-6.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 2880-2885, 2024年3月.
 - **平岡達也**, 岩倉友哉. [文書分類のためのクラス情報を考慮したトークン分割](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-2.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 1640-1644, 2024年3月.
 - 辻航平, **平岡達也**, 鄭育昌, 岩倉友哉. [サブワード系列の変化が固有表現抽出に与える影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D3-2.pdf). 言語処理学会第30回年次大会 (NLP2024), pp. 708-712, 2024年3月.
