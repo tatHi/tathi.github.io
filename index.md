@@ -130,10 +130,10 @@
     - Research Assistant
  
 ## Teaching Experience
-- 2023. Tokyo Institute of Technology.
-    - Part-time lecturer, Advanced Communication System Engineering. Tokyo Institute of Technology.
-- 2022, 2023, 2024. Ehime University.
-    - Part-time lecturer, Object Oriented Programming.
+- 2023.11. 東京工業大学 / Tokyo Institute of Technology.
+    - Part-time lecturer, 先端通信システム特論 / Advanced Communication System Engineering. Tokyo Institute of Technology.
+- 2022, 2023, 2024. 愛媛大学 / Ehime University.
+    - Part-time lecturer, オブジェクト指向プログラミング / Object Oriented Programming.
 
 # Activity
 - Other Publications
