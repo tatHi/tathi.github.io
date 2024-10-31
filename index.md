@@ -134,7 +134,7 @@
     - Part-time lecturer, Advanced Communication System Engineering. Tokyo Institute of Technology.
 - 2022, 2023, 2024. Ehime University.
     - Part-time lecturer, Object Oriented Programming.
-    - 
+
 # Activity
 - Other Publications
     - 博士号とった人に聞いてみた. 情報処理 64 (6), 298-298, 2023-05-15.
