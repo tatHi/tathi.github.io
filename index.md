@@ -45,9 +45,7 @@
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Word-level Perturbation Considering Word Length and Compositional Subwords](https://aclanthology.org/2022.findings-acl.258/). In Findings of the Association for Computational Linguistics: ACL 2022, pages 3268-3275, Dublin, May 2022.
 - Sho Takase, **Tatsuya Hiraoka**, and Naoaki Okazaki. [Single Model Ensemble for Subword Regularized Models in Low-Resource Machine Translation](https://aclanthology.org/2022.findings-acl.199/). In Findings of the Association for Computational Linguistics: ACL 2022, pages (to appear), Dublin, May 2022.
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, and Naoaki Okazaki. [Joint Optimization of Tokenization and Downstream Model](https://aclanthology.org/2021.findings-acl.21). In Findings of the Association for Computational Linguistics: ACL 2021, Association for Computational Linguistics, August 2021.
-    - (Presentation slot is assigned in WAT2021).
 - **Tatsuya Hiraoka**, Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki. [Optimizing Word Segmentation for Downstream Task](https://www.aclweb.org/anthology/2020.findings-emnlp.120). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings, pages 1341–1351, Association for Computational Linguistics, November 2020.
-    - (Presentation slot is assigned in BlackboxNLP 2020 Workshop).
 - **Tatsuya Hiraoka**, Hiroyuki Shindo, Yuji Matsumoto. [Stochastic Tokenization with a Language Model for Neural Text Classification](https://www.aclweb.org/anthology/P19-1158). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1620–1629, July 2019.
 
 ## Non-refereed
@@ -78,6 +76,7 @@
 
 ## Non-refereed Presentations
 - 辻 航平, **平岡 達也**, 鄭 育昌, 岩倉 友哉. SubRegWeigh: サブワード正則化による高速アノテーション補正. 第19回NLP若手の会シンポジウム, 2024年9月.
+- 石倉 誠也, 山田 寛章, **平岡 達也**, 山田 広明, 徳永 健伸. 内心描写付きの対話データを用いた非著名人の性格特性再現. 第19回NLP若手の会シンポジウム, 2024年9月.
 - 昇 夏海, **平岡 達也**, 丹羽 彩奈, 岡﨑 直観, 脇本 宏平, 黒田 和矢, 西口 佳佑. 企業情報を考慮した広告文の自動生成. 第15回NLP若手の会シンポジウム, 2020年9月.
 - **平岡 達也**, 高瀬 翔, 岡崎 直観. RNNによる遷移確率計算を用いた隠れマルコフモデル. 第14回NLP若手の会シンポジウム, p. 79, 2019年8月.
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
