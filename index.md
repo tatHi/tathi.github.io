@@ -18,28 +18,6 @@
 - [Linkedin](https://www.linkedin.com/in/tatsuya-hiraoka-2040b51b8/)
 - Email: tathi029 🎨 gmail 🐶 com
 
-# Work Experience
-- Research Experience
-    - 2024.8 - current, Institute of Physical and Chemical Research (RIKEN)
-        - Research Scientist
-    - 2024.6 - current, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-        - Research Associate I (Postdoc)
-        - [MINT-NLP Team](https://www.mint-nlp-mbzuai.com/)
-    - 2022.4 - 2024.5, Fujitsu Limited.
-        - Ph.D Researcher
-    - 2023.6 - 2024.3, Tokyo Institute of Technology.
-        - Part-time Researcher
-    - 2020.4 - 2022.3, The New Energy and Industrial Technology Development Organization.
-        - Research Assistant
-    - 2019.4 - 2020.3, The project of NICT: "Research and Development of Deep Learning Technology for Advanced Multilingual Speech Translation".
-        - Research Assistant
-    - 2019.1 - 2022.3, Retrieva, inc.
-        - Part-time researcher
-    - 2017.8 - 2017.9, Retrieva, inc.
-        - Internship
-    - 2017.5 - 2019.3, RIKEN Center for Advanced Intelligence Project Knowledge Acquisition Team.
-        - Research Assistant
-
 # Education
 - 2019.4 - 2022.3 **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html) (Doctor of Engineering).
     - Supervisor: Prof. Naoaki Okazaki
@@ -104,24 +82,59 @@
 - **平岡 達也**．[ネットスラング『なう』についての統語論的考察](http://www.decode.waseda.ac.jp/announcement/documents-for-2017-03-04-05/TatsuyaHiraoka.pdf)，日本英語教育学会・日本教育言語学会第47回年次研究集会，2017．
 
 # Awards
-- 第10回 AAMT長尾賞学生奨励賞. Tatsuya Hiraoka. Task-Oriented Word Segmentation.
-- 2021年度 情報処理学会研究会推薦博士論文. Tatsuya Hiraoka. Task-Oriented Word Segmentation.
+- 第10回 AAMT長尾賞学生奨励賞 / AAMT Nagao Student Award
+    - Tatsuya Hiraoka. Task-Oriented Word Segmentation.
+- 2021年度 情報処理学会研究会推薦博士論文 / Recommended Doctoral Dissertation of 2021, Information Processing Society of Japan (IPSJ)
+    - Tatsuya Hiraoka. Task-Oriented Word Segmentation.
     - [解説記事](https://note.com/ipsj/n/n41b7c2625461?magazine_key=maf0952f50ef4)
 - 2021年度東京工業大学情報工学系知能情報コース修了代表者
-- 2021年度言語処理学会論文賞（Vol. 28）. 平岡 達也, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観．テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化．
-- 東京工業大学つばめ博士学生奨学金（2020年度，2021年度特別奨学金）.
-    - 特に優秀な学業成績を修めた学生（2年次～3年次の全奨学生の20%程度）
-- 言語処理学会第27回年次大会（NLP2021）．若手奨励賞．2021年3月18日．平岡 達也．後段モデルの損失値を用いた単語分割のタスクへの最適化．
-- 第242回自然言語処理研究会. 若手奨励賞. 2019年10月25日. 平岡 達也. RNNによる遷移確率計算を用いた隠れマルコフモデル.
+- 2021年度[言語処理学会論文賞](https://www.anlp.jp/en/award/ronbun.html)（Vol. 28），最優秀賞 / First-place Best Paper Award (Journal of Natural Language Processing).
+    - 平岡 達也, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観．テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化．
+- [東京工業大学つばめ博士学生奨学金](https://www.titech.ac.jp/english/student-support/students/tuition/tsubame-scholarship)（2020年度，2021年度特別奨学金）/ Tokyo Tech Tsubame Scholarship for Doctoral Students
+    - 特に優秀な学業成績を修めた学生（2年次～3年次の全奨学生の20%程度）/ Selected as a student who shows outstanding academic performance
+- 言語処理学会第27回年次大会（NLP2021）．若手奨励賞 / Young Researcher Award (NLP2021)
+    - 2021年3月18日．平岡 達也．後段モデルの損失値を用いた単語分割のタスクへの最適化．
+- 第242回自然言語処理研究会. 若手奨励賞 / Young Researcher Award (IPSJ-NL 242)
+    - 2019年10月25日. 平岡 達也. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
 # Resarch Grants
-- 2024.04-2026.3
-    - 科学研究費助成事業（科研費）　若手研究
+- 2024.04 - (suspended due to living abroad)
+    - 科学研究費助成事業（科研費）　若手研究 / JSPS KAKENHI, Grant-in-Aid for Early-Career Scientists
     - 自然言語処理に最適な語彙と分割の仕方を自動で獲得する人工知能の創出
-- 2021.10-2024.4
+- 2021.10 - 2024.4
     - 国立研究開発法人科学技術振興機構 (Japan Science and Technology Agency, JST), ACT-X.
     - 人間とAIの双方に扱いやすいことばの単位の創出
-
+ 
+# Work Experience
+## Full-time Job
+- 2024.6 - current, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+    - Research Associate I (Postdoc)
+    - [MINT-NLP Team](https://www.mint-nlp-mbzuai.com/)
+- 2022.4 - 2024.5, Fujitsu Limited.
+    - Ph.D Researcher
+ 
+## Part-time Job
+- 2024.8 - current, Institute of Physical and Chemical Research (RIKEN).
+    - Research Scientist
+- 2023.6 - 2024.3, Tokyo Institute of Technology.
+    - Part-time Researcher
+- 2020.4 - 2022.3, The New Energy and Industrial Technology Development Organization.
+    - Research Assistant
+- 2019.4 - 2020.3, The project of NICT: "Research and Development of Deep Learning Technology for Advanced Multilingual Speech Translation".
+    - Research Assistant
+- 2019.1 - 2022.3, Retrieva, inc.
+    - Part-time researcher
+- 2017.8 - 2017.9, Retrieva, inc.
+    - Internship
+- 2017.5 - 2019.3, Institute of Physical and Chemical Research (RIKEN).
+    - Research Assistant
+ 
+## Teaching Experience
+- 2023. Tokyo Institute of Technology.
+    - Part-time lecturer, Advanced Communication System Engineering. Tokyo Institute of Technology.
+- 2022, 2023, 2024. Ehime University.
+    - Part-time lecturer, Object Oriented Programming.
+    - 
 # Activity
 - Other Publications
     - 博士号とった人に聞いてみた. 情報処理 64 (6), 298-298, 2023-05-15.
@@ -134,15 +147,14 @@
     - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 - Committee
     - [生成AI時代の自然言語処理における産学官の役割と課題](https://sites.google.com/view/llm-discussion-nlp2024-ws)（共同提案者）
-    - 言語処理学会　会誌「自然言語処理」　編集委員, 2023.9-現在
-    - 言語処理学会年次大会，運営委員（プログラム編成担当）．
+    - 言語処理学会　会誌「自然言語処理」　編集委員 / Jounal of Natural Langauge Processing, [Associate Editor](https://anlp.jp/en/guide/editors.html).
+        - 2023.9 - current
+    - 言語処理学会年次大会，運営委員（プログラム編成担当）/ The annual meeting of the Association for Natural Language Processing, Program Committee.
         - 第30回年次大会（NLP2024）
-    - NLP若手の会 (YANS)，運営委員（会場担当）．
+        - 第31回年次大会（NLP2025）
+    - NLP若手の会 (YANS)，運営委員（会場担当） / Young Researcher Association for NLP Studies (YANS), Committee.
         -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
         -  [第18回シンポジウム (2023)](https://yans.anlp.jp/entry/yans2023)
 
 
-        - Work on named entity recognition (NER)
-- Teaching Experience
-    - Advanced Communication System Engineering. Tokyo Institute of Technology. 2023.
-    - Object Oriented Programming. Ehime University. 2022, 2023.
+
