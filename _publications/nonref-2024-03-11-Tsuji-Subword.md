@@ -1,6 +1,6 @@
 ---
 title: "サブワード系列の変化が固有表現抽出に与える影響の調査."
-authors: 辻 航平, <b>平岡 達也</b>, 鄭 育昌, 岩倉 友哉.
+authors: 辻 航平, <b>平岡 達也</b>, 鄭 育昌, 岩倉 友哉
 collection: publications
 category: nonref
 date: 2024-03-11
