@@ -43,7 +43,7 @@ redirect_from:
   - Fujitsu Limited
  
 ## Part-time Job
-- 2024.8 - current: **Research Scientist**
+- 2024.8 - current: **Visiting Scientist**
   - Institute of Physical and Chemical Research (RIKEN).
 - 2023.6 - 2024.3: **Part-time Researcher**
   - Tokyo Institute of Technology.
