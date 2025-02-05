@@ -36,14 +36,14 @@ redirect_from:
 
 # Work experience
 ## Full-time Job
-- 2024.6 - current: **Research Associate I (Postdoc)**
+- 2024.6 - present: **Research Associate I (Postdoc)**
   - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
   - [MINT-NLP Team](https://www.mint-nlp-mbzuai.com/)
 - 2022.4 - 2024.5: **Ph.D Researcher**
   - Fujitsu Limited
  
 ## Part-time Job
-- 2024.8 - current: **Visiting Scientist**
+- 2024.8 - present: **Visiting Scientist**
   - Institute of Physical and Chemical Research (RIKEN).
 - 2023.6 - 2024.3: **Part-time Researcher**
   - Tokyo Institute of Technology.
