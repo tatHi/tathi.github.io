@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 平岡 達也 (Hiraoka, Tatsuya) is 
-- a postdoc researcher at [MBZUAI](https://mbzuai.ac.ae/), [MINT Team](https://www.mint-nlp-mbzuai.com/)
-- a visiting scientist at [RIKEN](https://www.riken.jp/en/), [Natural Language Understanding Team](https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html)
-
+- a **Postdoctoral Associate** at [MBZUAI](https://mbzuai.ac.ae/), [MINT Team](https://www.mint-nlp-mbzuai.com/)
+- a **Visiting Scientist** at [RIKEN](https://www.riken.jp/en/), [Natural Language Understanding Team](https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html)
+- a **Visiting Assistant Professor** at [NASIT](https://www.naist.jp/en/), [Watanabe Lab](https://nlp.naist.jp/en/)
 
 ---
 
