@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 - 2024年度[人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/) / JSAI Incentive Award
-    - 山田広明, 山田寛章, **平岡達也**. 言語で柔軟に操作可能なWhat-if社会シミュレータ．
+    - 山田広明, 山田寛章, **平岡達也**. 言語で柔軟に操作可能なWhat-if社会シミュレータ.
 - 第10回 AAMT長尾賞学生奨励賞 / AAMT Nagao Student Award
     - **Tatsuya Hiraoka**. Task-Oriented Word Segmentation.
 - 2021年度 情報処理学会研究会推薦博士論文 / Recommended Doctoral Dissertation of 2021, Information Processing Society of Japan (IPSJ)

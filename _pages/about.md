@@ -17,7 +17,6 @@ redirect_from:
 # Research Interests
 - Natural Language Processing
   - Word Segmentation / Tokenization
-  - Named Entity Recognition
   - Interpretability
 - Linguistics
   - Language Acquisition
@@ -40,12 +39,14 @@ redirect_from:
 # Work experience
 ## Full-time Job
 - 2024.6 - present: **Research Associate I (Postdoc)**
-  - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+  - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
   - [MINT-NLP Team](https://www.mint-nlp-mbzuai.com/)
 - 2022.4 - 2024.5: **Ph.D Researcher**
-  - Fujitsu Limited
+  - Fujitsu Limited.
  
-## Part-time Job
+## Part-time / Visiting Job
+- 2025.7 - present: **Visiting Assistant Processor**
+  - Nara Institute of Science and Technology (NAIST).
 - 2024.8 - present: **Visiting Scientist**
   - Institute of Physical and Chemical Research (RIKEN).
 - 2023.6 - 2024.3: **Part-time Researcher**
