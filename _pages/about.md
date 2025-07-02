@@ -45,7 +45,7 @@ redirect_from:
   - Fujitsu Limited.
  
 ## Part-time / Visiting Job
-- 2025.7 - present: **Visiting Assistant Processor**
+- 2025.7 - present: **Visiting Assistant Professor**
   - Nara Institute of Science and Technology (NAIST).
 - 2024.8 - present: **Visiting Scientist**
   - Institute of Physical and Chemical Research (RIKEN).
