@@ -26,7 +26,7 @@ redirect_from:
 ---
 
 # Education
-- Doctor of Engineering. **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html). 2022.
+- Doctor of Engineering in Artificial Intelligence. **Tokyo Institute of Technology**, [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html). 2022.
   - Supervisor: Prof. Naoaki Okazaki
   - Doctoral Dissertation: [Task-Oriented Word Segmentation](https://t2r2.star.titech.ac.jp/rrws/file/CTT100866215/ATD100000413/)
 - Master of Engineering. **Nara Institute of Science and Technology**, Computational Linguistics Lab. 2019.
