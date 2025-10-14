@@ -18,13 +18,28 @@ author_profile: true
 - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
 
 
-## Committee
-- [生成AI時代の自然言語処理における産学官の役割と課題](https://sites.google.com/view/llm-discussion-nlp2024-ws)（共同提案者）
-- 言語処理学会　会誌「自然言語処理」　編集委員 / Jounal of Natural Langauge Processing, [Associate Editor](https://anlp.jp/en/guide/editors.html).
-  - 2023.9 - current
-- 言語処理学会年次大会，運営委員（プログラム編成担当）/ The annual meeting of the Association for Natural Language Processing, Program Committee.
-  - 第30回年次大会（NLP2024）
-  - 第31回年次大会（NLP2025）
-- NLP若手の会 (YANS)，運営委員（会場担当） / Young Researcher Association for NLP Studies (YANS), Committee.
-  -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
-  -  [第18回シンポジウム (2023)](https://yans.anlp.jp/entry/yans2023)
+## Committee / Academic Services
+- International
+  - Area Chair
+    - ACL Rolling Review (ARR)
+  - Reviewer
+    - ACL Rolling Review (ARR)
+    - Various ACL-related conferneces before ARR
+    - International Conference on Computational Linguistics (COLING)
+    - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+- Domestic
+  - Editor
+    - 言語処理学会　会誌「自然言語処理」　編集委員 / Jounal of Natural Langauge Processing, [Associate Editor](https://anlp.jp/en/guide/editors.html).
+      - 2023.9 - current
+  - Reviewer / Referee
+    - 会誌「自然言語処理」
+    - 情報処理学会論文誌データベース(IPSJ-TOD)
+    - 言語処理学会　論文賞審査員
+  - Committee
+    - [生成AI時代の自然言語処理における産学官の役割と課題](https://sites.google.com/view/llm-discussion-nlp2024-ws)（共同提案者）
+    - 言語処理学会年次大会，運営委員（プログラム編成担当）/ The annual meeting of the Association for Natural Language Processing, Program Committee.
+      - 第30回年次大会（NLP2024）
+      - 第31回年次大会（NLP2025）
+    - NLP若手の会 (YANS)，運営委員（会場担当） / Young Researcher Association for NLP Studies (YANS), Committee.
+      -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
+      -  [第18回シンポジウム (2023)](https://yans.anlp.jp/entry/yans2023)
