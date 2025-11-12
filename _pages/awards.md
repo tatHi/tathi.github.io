@@ -14,6 +14,8 @@ author_profile: true
 - 2021年度東京工業大学情報工学系知能情報コース修了代表者
 - 2021年度[言語処理学会論文賞](https://www.anlp.jp/en/award/ronbun.html)（Vol. 28），最優秀賞 / First-place Best Paper Award (Journal of Natural Language Processing).
     - **平岡 達也**, 高瀬 翔, 内海 慶, 欅 惇志, 岡崎 直観．[テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_479/_article/-char/ja/)．
+- [東京工業大学つばめ博士学生奨学金](https://www.titech.ac.jp/english/student-support/students/tuition/tsubame-scholarship)（2020年度，2021年度特別奨学金）/ Tokyo Tech Tsubame Scholarship for Doctoral Students (a special scholarship: 2020FY, 2021FY)
+        - 特に優秀な学業成績を修めた学生（2年次～3年次の全奨学生の20%程度）/ Selected as a student who shows outstanding academic performance (top 20\% of 2nd/3rd-year scholarship students)
 - 言語処理学会第27回年次大会（NLP2021）．若手奨励賞 / Young Researcher Award (NLP2021)
     - 2021年3月18日．**平岡 達也**．後段モデルの損失値を用いた単語分割のタスクへの最適化．
 - 第242回自然言語処理研究会. 若手奨励賞 / Young Researcher Award (IPSJ-NL 242)
