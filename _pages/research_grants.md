@@ -18,4 +18,4 @@ author_profile: true
         - 2020FY: 635,400 JPY*
         - 2019FY: 480,000 JPY
     - *2020FY, 2021FY: 特別奨学金 / a special scholarship
-        - 特に優秀な学業成績を修めた学生（2年次～3年次の全奨学生の20%程度）/ Selected as a student who shows outstanding academic performance (top 20\% of 2nd/3rd-year scholarship students)
+        - 特に優秀な学業成績を修めた学生（2年次～3年次の全奨学生の20%程度）/ Selected as a student who shows outstanding academic performance (top 20% of 2nd/3rd-year scholarship students)
