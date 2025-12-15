@@ -5,6 +5,9 @@ permalink: /research_grants/
 author_profile: true
 ---
 
+- 2025.04 - 2026.03:
+    - 共同研究 / Collaborative research
+    - [株式会社いちから](https://ichikara.ai/)
 - 2024.04 - 2028.03: **3,600,000 JPY** / 3 years*
     - 科学研究費助成事業（科研費）　若手研究 / JSPS KAKENHI, Grant-in-Aid for Early-Career Scientists
     - 自然言語処理に最適な語彙と分割の仕方を自動で獲得する人工知能の創出
