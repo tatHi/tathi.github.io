@@ -15,6 +15,9 @@ author_profile: true
 - 2021.10 - 2024.04: **4,977,000 JPY** / 2.5 years
     - 国立研究開発法人科学技術振興機構 (Japan Science and Technology Agency, JST), ACT-X.
     - 人間とAIの双方に扱いやすいことばの単位の創出
+- 2020.04 - 2022.03:
+    - 共同研究 / Collaborative research
+    - [デンソーアイティーラボラトリ](https://d-itlab.co.jp)
 - 2019.04 - 2022.03: **1,750,800 JPY** / 3 years
     - [東京工業大学つばめ博士学生奨学金](https://www.titech.ac.jp/english/student-support/students/tuition/tsubame-scholarship) / Tokyo Tech Tsubame Scholarship for Doctoral Students
         - 2021FY: 635,400 JPY*
