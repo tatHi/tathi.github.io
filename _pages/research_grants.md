@@ -5,7 +5,7 @@ permalink: /research_grants/
 author_profile: true
 ---
 
-- 2025.04 - 2026.03:
+- 2025.04 - 2027.09:
     - 共同研究 / Collaborative research
     - [株式会社いちから](https://ichikara.ai/)
 - 2024.04 - 2028.03: **3,600,000 JPY** / 3 years*

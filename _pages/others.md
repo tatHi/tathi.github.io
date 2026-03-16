@@ -29,13 +29,14 @@ author_profile: true
     - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
 - Domestic
   - Editor
-    - 言語処理学会　会誌「自然言語処理」　編集委員 / Jounal of Natural Langauge Processing, [Associate Editor](https://anlp.jp/en/guide/editors.html).
+    - 言語処理学会　会誌「自然言語処理」　編集委員 / Journal of Natural Language Processing, [Associate Editor](https://anlp.jp/en/guide/editors.html).
       - 2023.9 - current
   - Reviewer / Referee
     - 会誌「自然言語処理」
     - 情報処理学会論文誌データベース(IPSJ-TOD)
     - 言語処理学会　論文賞審査員
   - Committee
+    - [気軽に国際会議を目指しましょう](https://naist-nlp.github.io/breaking-into-top-tier-conferences/)（共同提案者）
     - [生成AI時代の自然言語処理における産学官の役割と課題](https://sites.google.com/view/llm-discussion-nlp2024-ws)（共同提案者）
     - 言語処理学会年次大会，運営委員（プログラム編成担当）/ The annual meeting of the Association for Natural Language Processing, Program Committee.
       - 第30回年次大会（NLP2024）
