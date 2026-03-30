@@ -7,5 +7,5 @@ date: 2026-03-09
 venue: '言語処理学会第32回年次大会（NLP2026）, pp. 2072-2077'
 paperurl: 'https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B5-13.pdf'
 en: 
-award: 委員特別賞 / Committee Special Awards
+award: 委員特別賞 / Committee Member Special Award
 ---
