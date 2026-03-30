@@ -6,7 +6,7 @@ collection: publications
 category: nonref
 date: 2026-03-07
 venue: '第267回自然言語処理研究発表会 (NL267)'
-paperurl: 
+paperurl: https://ipsj.ixsq.nii.ac.jp/records/2007744
 en: 
 award: 筆頭著者が若手奨励賞 / The first author won Young Researcher Award
 ---
