@@ -11,16 +11,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards"
-    url: /awards/
+  - title: "Activities"
+    url: /activities/
 
-  - title: "Research Grants"
-    url: /research_grants/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Others"
-    url: /others/
+  - title: "Honors&Funding"
+    url: /honors_funding/
 
   
