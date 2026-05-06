@@ -37,7 +37,7 @@ redirect_from:
 
 ## Work experience
 ### Full-time Job
-- 2024.6 - present: **Research Associate I (Postdoc)**
+- 2024.6 - present: **Postdoctoral Associate**
   - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
   - [MINT-NLP Team](https://www.mint-nlp-mbzuai.com/)
 - 2022.4 - 2024.5: **Ph.D Researcher**
