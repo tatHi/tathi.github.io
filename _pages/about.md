@@ -67,7 +67,7 @@ redirect_from:
   - 愛媛大学 / Ehime University
 - 2023: オブジェクト指向プログラミング / Object Oriented Programming
   - 愛媛大学 / Ehime University
-- 2023: 先端通信システム特論 / Advanced Communication System Engineering. Tokyo Institute of Technology
+- 2023: 先端通信システム特論 / Advanced Communication System Engineering
   - 東京工業大学 / Tokyo Institute of Technology
 - 2022: オブジェクト指向プログラミング / Object Oriented Programming
   - 愛媛大学 / Ehime University
