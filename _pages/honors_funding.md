@@ -26,6 +26,11 @@ author_profile: true
     - 2019年10月25日. **平岡 達也**. RNNによる遷移確率計算を用いた隠れマルコフモデル.
 
 ## Funding
+- 2026.07 - 2029.04: **4,700,000 JPY** / 2.5 years
+    - PI: Yusuke Yagi
+    - 分担: **Tatsuya Hiraoka**
+    - 科学研究費助成事業（科研費）　挑戦的研究（萌芽） / JSPS KAKENHI, Grant-in-Aid for Challenging Research Exploratory
+    - 機械は子供のように言語を学ぶのか：論理推論発達の再現性に関する挑戦的研究
 - 2024.04 - 2028.03: **3,600,000 JPY** / 3 years*
     - PI: **Tatsuya Hiraoka**
     - 科学研究費助成事業（科研費）　若手研究 / JSPS KAKENHI, Grant-in-Aid for Early-Career Scientists
