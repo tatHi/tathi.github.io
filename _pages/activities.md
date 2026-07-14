@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 ## Invited Talks
-- 大規模言語モデルは何をしているのか　〜生成AIに振り回されないための基本知識〜. [茨城県毒物劇物保安協会](https://www.ibarakidokugekihoan.org/index.html), 令和8年度講演会. 2026.06.03.
+- 大規模言語モデルは何をしているのか〜生成AIに振り回されないための基本知識〜．[茨城県毒物劇物保安協会](https://www.ibarakidokugekihoan.org/index.html)，令和8年度講演会．2026.06.03.
 - [最長一致法のためのサブワード正則化手法（MaxMatch-Dropout）とその周辺の話](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua). [NLPコロキウム](https://nlp-colloquium-jp.github.io/), 2022.12.14. ([録画](https://www.youtube.com/watch?v=6GbhzLSj_5s))
 - [テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://speakerdeck.com/tathi/optimizing-tokenization-nlp2022-talk)．言語処理学会第28回年次大会，招待論文．
 - [文系的な興味を理系的な達成目標に変換する](https://speakerdeck.com/tathi/wen-xi-de-naxing-wei-woli-xi-de-nada-cheng-mu-biao-nibian-huan-suru). 言語処理学会第27回年次大会ワークショップ, [若手研究者交流のニューノーマルを考える](https://sites.google.com/view/nlp2021ws).
