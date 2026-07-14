@@ -5,5 +5,5 @@ collection: publications
 category: conferences
 date: 2026-07-02
 venue: 'The 64th Annual Meeting of the Association for Computational Linguistics (ACL)'
-paperurl: 
+paperurl: 'https://aclanthology.org/2026.acl-long.1596/'
 ---
