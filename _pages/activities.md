@@ -16,6 +16,7 @@ author_profile: true
 - [YANSスペシャルセッション](https://yans.anlp.jp/entry/yans2023program#1900-1930-YANS%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3). NLP若手の会 (YANS), 第18回シンポジウム, 2023.8.30.
 
 ## Articles / Essays
+- [NLP2026 ワークショップ：気軽に国際会議を目指しましょう](https://www.jstage.jst.go.jp/article/jnlp/33/2/33_1094/_article/-char/ja/). 自然言語処理, 2026 年 33 巻 2 号 p. 1094-1100.
 - [生成 AI 時代の自然言語処理における産学官の役割と課題　NLP2024ワークショップ](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_798/_article/-char/ja/). 自然言語処理, 2024年 31巻 2号 p.798-804.
 - [タスクに応じてトークン分割を最適化する試みと現状](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302280563660571), AAMT Journal, 2023年11月29日.
 - 博士号とった人に聞いてみた. 情報処理 64 (6), 298-298, 2023-05-15.
