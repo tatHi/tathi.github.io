@@ -13,7 +13,7 @@ redirect_from:
 - **Postdoctoral Associate** at [MBZUAI](https://mbzuai.ac.ae/), [MINT Team](https://www.mint-nlp-mbzuai.com/)
 - **Visiting Scientist** at [RIKEN](https://www.riken.jp/en/), [Natural Language Understanding Team](https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html)
 - **Visiting Assistant Professor** at [NAIST](https://www.naist.jp/en/), [Watanabe Lab](https://nlp.naist.jp/en/)
-
+  - I am not eligible to serve as the prospective supervisor or host researcher for graduate admissions or MEXT scholarship applications. Please note that **I will not respond to inquiries regarding admission, supervision, or MEXT scholarship applications**.
 
 ## Research Interests
 - Natural Language Processing
