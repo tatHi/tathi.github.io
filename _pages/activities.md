@@ -5,6 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 ## Invited Talks
+- [ChatGPTが無かった時代の博士課程](https://yans.anlp.jp/entry/yans2026invitesession#ChatGPT%E3%81%8C%E7%84%A1%E3%81%8B%E3%81%A3%E3%81%9F%E6%99%82%E4%BB%A3%E3%81%AE%E5%8D%9A%E5%A3%AB%E8%AA%B2%E7%A8%8B-%E5%B9%B3%E5%B2%A1-%E9%81%94%E4%B9%9F%E6%B0%8FMBZUAI). 第21回言語処理若手シンポジウム（YANS2026）, 2026.08.18.
 - 大規模言語モデルは何をしているのか〜生成AIに振り回されないための基本知識〜．[茨城県毒物劇物保安協会](https://www.ibarakidokugekihoan.org/index.html)，令和8年度講演会．2026.06.03.
 - [最長一致法のためのサブワード正則化手法（MaxMatch-Dropout）とその周辺の話](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua). [NLPコロキウム](https://nlp-colloquium-jp.github.io/), 2022.12.14. ([録画](https://www.youtube.com/watch?v=6GbhzLSj_5s))
 - [テキストベクトルの重みづけを用いたタスクに対する単語分割の最適化](https://speakerdeck.com/tathi/optimizing-tokenization-nlp2022-talk)．言語処理学会第28回年次大会，招待論文．
@@ -30,15 +31,20 @@ author_profile: true
 
 ### Area Chair / Meta-Reviewer
 - ACL Rolling Review (ARR)
-  - 2026 March, January
+  - 2026 March, January, May, August
   - 2025 October, July
 
 ### Reviewer 
+- The Association for the Advancement of Artificial Intelligence (AAAI)
+  - 2026
+- The Conference on Neural Information Processing Systems (NeurIPS)
+  - 2026
 - International Conference on Machine Learning (ICML)
   - 2026
 - Conference on Language Modeling (COLM)
   - 2026
 - ACL Rolling Review (ARR)
+  - 2026 May
   - 2025 May, February
   - 2024 December, October, June, February
   - 2023 June
@@ -49,9 +55,13 @@ author_profile: true
 - Conference of the European Chapter of the Association for Computational Linguistics (EACL)
   - 2023
 - International Conference on Computational Linguistics (COLING)
-  - 2025, 2022
+  - 2025
+  - 2024 (LREC-COLING)
+  - 2022
 - International Conference on Language Resources and Evaluation (LREC)
-  - 2026, 2024 (LREC-COLING)
+  - 2026
+  - 2024 (LREC-COLING)
+- Computational Linguistics
 - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
 - 会誌「自然言語処理」 / Journal of Natural Language Processing
 - 情報処理学会論文誌データベース(IPSJ-TOD)
