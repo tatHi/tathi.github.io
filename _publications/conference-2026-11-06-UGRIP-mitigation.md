@@ -1,6 +1,6 @@
 ---
 title: "Mitigating the Impact of Glitch Tokens via Targeted Retokenization"
-authors: Muhammad Alif Al Hakim, Dmitrii Kuzmin, Carlos Javier Galán Zavala, <b>Tatsuya Hiraoka</b>, Munachiso Samuel Nwadike, Ayana Niwa, Marco Cognetta, David Pohl, Kentaro Inui.
+authors: Muhammad Alif Al Hakim, Dmitrii Kuzmin, Carlos Javier Galán Zavala, <b>Tatsuya Hiraoka</b>, Munachiso Samuel Nwadike, Ayana Niwa, Marco Cognetta, David Pohl, Kentaro Inui
 collection: publications
 category: conferences
 date: 2026-11-06
