@@ -7,7 +7,7 @@ author_profile: true
 
 ## Other Publications
 - [生成 AI 時代の自然言語処理における産学官の役割と課題　NLP2024ワークショップ](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_798/_article/-char/ja/). 自然言語処理, 2024年 31巻 2号 p.798-804.
-- 博士号とった人に聞いてみた. 情報処理 64 (6), 298-298, 2023-05-15.
+- [博士号とった人に聞いてみた](https://cir.nii.ac.jp/crid/1390014713516816384). 情報処理 64 (6), 298-298, 2023-05-15.
 - [単語分割の最適化に関する研究は雑談と偶然の出会いに育まれた](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_688/_article/-char/ja)．2021年度言語処理学会論文賞（Vol. 28）に関する学会記事．
 
 
