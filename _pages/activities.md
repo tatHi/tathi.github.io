@@ -35,8 +35,10 @@ author_profile: true
   - 2025 October, July
 
 ### Reviewer 
+- The International Conference on Learning Representations (ICLR)
+  - 2027
 - The Association for the Advancement of Artificial Intelligence (AAAI)
-  - 2026
+  - 2027
 - The Conference on Neural Information Processing Systems (NeurIPS)
   - 2026
 - International Conference on Machine Learning (ICML)
@@ -61,7 +63,7 @@ author_profile: true
 - International Conference on Language Resources and Evaluation (LREC)
   - 2026
   - 2024 (LREC-COLING)
-- Computational Linguistics
+- Computational Linguistics (CL)
 - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
 - 会誌「自然言語処理」 / Journal of Natural Language Processing
 - 情報処理学会論文誌データベース(IPSJ-TOD)
