@@ -62,7 +62,9 @@ redirect_from:
   - Institute of Physical and Chemical Research (RIKEN).
 
 ## Teaching Experience
-### Part-time Lecturer
+### Part-time Lecturer / Instructor
+- 2026: MTH7101 Mathematical Foundations of AI
+  - Mohamed bin Zayed University of Artificial Intelligence
 - 2024: オブジェクト指向プログラミング / Object Oriented Programming
   - 愛媛大学 / Ehime University
 - 2023: オブジェクト指向プログラミング / Object Oriented Programming

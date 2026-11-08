@@ -6,5 +6,5 @@ category: nonref
 date: 2026-06-12
 venue: '2026年度 人工知能学会全国大会（第40回）'
 paperurl: 'https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/5Yin-A-36'
-en: 
+award: 全国大会優秀賞 / JSAI Annual Conference Award
 ---
