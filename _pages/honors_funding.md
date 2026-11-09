@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Awards
+- 2026年度[人工知能学会全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/#CONFERENCE) / JSAI Annual Conference Award
+    - 三浦 東子, 谷口 雅弥, **平岡 達也**, 坂口 慶祐, 乾 健太郎. 意味的類似性を用いた新規概念の埋め込み初期化
 - 言語処理学会第32回年次大会（NLP2026）. 委員特別賞 / Committee Member Special Award
     - 尾崎 慎太郎, **平岡 達也**, 大竹 啓永, 大内 啓樹, 磯沼 大, Benjamin Heinzerling, 乾 健太郎, 渡辺 太郎 , 宮尾 祐介, 大関 洋平, 高木 優. 大規模言語モデルの潜在言語は一貫しているべきか？
 - 2024年度[人工知能学会研究会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-sig/) / JSAI Incentive Award
