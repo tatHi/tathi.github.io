@@ -31,7 +31,7 @@ author_profile: true
 
 ### Area Chair / Meta-Reviewer
 - ACL Rolling Review (ARR)
-  - 2026 March, January, May, August
+  - 2026 October, August, May, March, January
   - 2025 October, July
 
 ### Reviewer 
@@ -70,12 +70,12 @@ author_profile: true
 - 言語処理学会　論文賞審査員
 
 ### Committee / Organizer
-- [気軽に国際会議を目指しましょう](https://naist-nlp.github.io/breaking-into-top-tier-conferences/)（共同提案者）
-- [生成AI時代の自然言語処理における産学官の役割と課題](https://sites.google.com/view/llm-discussion-nlp2024-ws)（共同提案者）
+- [NLP2026 ワークショップ：気軽に国際会議を目指しましょう](https://naist-nlp.github.io/breaking-into-top-tier-conferences/)（共同提案者）
+- [NLP2024 ワークショップ：生成AI時代の自然言語処理における産学官の役割と課題](https://sites.google.com/view/llm-discussion-nlp2024-ws)（共同提案者）
 - 言語処理学会年次大会，運営委員（プログラム編成担当）/ The annual meeting of the Association for Natural Language Processing, Program Committee.
-  - 第30回年次大会（NLP2024）
   - 第31回年次大会（NLP2025）
+  - 第30回年次大会（NLP2024）
 - NLP若手の会 (YANS)，運営委員（会場担当） / Young Researcher Association for NLP Studies (YANS), Committee.
-  -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
   -  [第18回シンポジウム (2023)](https://yans.anlp.jp/entry/yans2023)
-    
+  -  [第17回シンポジウム (2022)](https://yans.anlp.jp/entry/yans2022)
+  

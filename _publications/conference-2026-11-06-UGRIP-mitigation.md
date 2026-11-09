@@ -5,5 +5,5 @@ collection: publications
 category: conferences
 date: 2026-11-06
 venue: 'The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP)'
-paperusl: 'https://aclanthology.org/2026.aacl-short.13/'
+paperurl: 'https://aclanthology.org/2026.aacl-short.13/'
 ---
